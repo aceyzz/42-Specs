@@ -10,7 +10,9 @@
 <a href="https://github.com/aceyzz/inception-of-things"><img src="_git_utils/iot.png" alt="inception-of-things project logo" style="width: 80%;">
 <img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
 
+---
+
+### DEVELOPPEMENT MOBILE
+
 <a href="https://github.com/aceyzz/swifty-companion"><img src="_git_utils/swifty.png" alt="swifty-companion project logo" style="width: 80%;">
 <img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
-
----
