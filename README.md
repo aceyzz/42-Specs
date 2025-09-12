@@ -29,6 +29,13 @@
 
 ---
 
+### WEB3
+
+<a href="https://github.com/aceyzz/tokenizer"><img src="_git_utils/tokenizer.png" alt="tokenizer project logo" style="width: 80%;">
+<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+
+---
+
 ### WORK EXPERIENCE
 
 <a href="https://cmuller.ch"><img src="_git_utils/we1.png" alt="work-experience-1 project logo" style="width: 80%;">
