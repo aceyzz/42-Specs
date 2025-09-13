@@ -15,7 +15,7 @@
 ### DEV MOBILE
 
 <a href="https://github.com/aceyzz/swifty-companion"><img src="_git_utils/swifty.png" alt="swifty-companion project logo" style="width: 80%;">
-<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+<img src="_git_utils/96.png" alt="grade" style="width: 19%;"></a>
 
 <a href="https://github.com/aceyzz/swifty-proteins"><img src="_git_utils/swifty-p.png" alt="swifty-proteins project logo" style="width: 80%;">
 <img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
