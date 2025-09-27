@@ -25,7 +25,7 @@
 ### DEV WEB
 
 <a href="https://github.com/cduffaut/matcha"><img src="_git_utils/matcha.png" alt="matcha project logo" style="width: 80%;">
-<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+<img src="_git_utils/100.png" alt="grade" style="width: 19%;"></a>
 
 ---
 
