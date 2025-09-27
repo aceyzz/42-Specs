@@ -36,6 +36,13 @@
 
 ---
 
+### AI
+
+<a href="https://github.com/aceyzz/ft_linear_regression"><img src="_git_utils/ftlr.png" alt="ft_linear_regression project logo" style="width: 80%;">
+<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+
+---
+
 ### WORK EXPERIENCE
 
 <a href="https://cmuller.ch"><img src="_git_utils/we1.png" alt="work-experience-1 project logo" style="width: 80%;">
