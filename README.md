@@ -80,7 +80,7 @@ Documentation du RNCP6 pour les etudiants de 42 [ici](https://meta.intra.42.fr/a
 
 ### RNCP7 Expert en architecture informatique
 
-Voir la fiche officielle du RNCP7 [ici](https://www.francecompetences.fr/recherche/rncp/39774/) (site officiel du gouvernement français)
+Voir la fiche officielle du RNCP7 [ici](https://www.francecompetences.fr/recherche/rncp/39774/) (site officiel du gouvernement français)  
 Documentation du RNCP7 pour les etudiants de 42 [ici](https://meta.intra.42.fr/articles/rncp-7-certificate)  
 
 **Objectif** : Obtenir le **RNCP7 option Système d'Information et Réseaux**
