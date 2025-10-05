@@ -12,7 +12,7 @@
 
 ---
 
-### DEV MOBILE
+### MOBILE
 
 <a href="https://github.com/aceyzz/swifty-companion"><img src="_git_utils/swifty.png" alt="swifty-companion project logo" style="width: 80%;">
 <img src="_git_utils/110.png" alt="grade" style="width: 19%;"></a>
@@ -22,7 +22,7 @@
 
 ---
 
-### DEV WEB
+### WEB
 
 <a href="https://github.com/cduffaut/matcha"><img src="_git_utils/matcha.png" alt="matcha project logo" style="width: 80%;">
 <img src="_git_utils/100.png" alt="grade" style="width: 19%;"></a>
