@@ -53,6 +53,13 @@
 
 ---
 
+### UNIX
+
+<a href="https://github.com/aceyzz/ft_linux"><img src="_git_utils/ft_linux.png" alt="ft_linux project logo" style="width: 80%;">
+<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+
+---
+
 ### WORK EXPERIENCE
 
 <a href="https://cmuller.ch"><img src="_git_utils/we1.png" alt="work-experience-1 project logo" style="width: 80%;">
