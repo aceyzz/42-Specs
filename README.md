@@ -39,7 +39,7 @@
 ### AI
 
 <a href="https://github.com/aceyzz/ft_linear_regression"><img src="_git_utils/ftlr.png" alt="ft_linear_regression project logo" style="width: 80%;">
-<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+<img src="_git_utils/123.png" alt="grade" style="width: 19%;"></a>
 
 ---
 
