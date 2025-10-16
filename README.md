@@ -46,7 +46,7 @@
 ### CYBERSECURITY
 
 <a href="https://github.com/aceyzz/ft_malcolm"><img src="_git_utils/malcolm.png" alt="ft_malcolm project logo" style="width: 80%;">
-<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+<img src="_git_utils/115.png" alt="grade" style="width: 19%;"></a>
 
 <a href="https://github.com/aceyzz/ft_ssl_md5"><img src="_git_utils/ft_ssl_md5.png" alt="ft_ssl_md5 project logo" style="width: 80%;">
 <img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
