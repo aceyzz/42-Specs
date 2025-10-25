@@ -56,7 +56,7 @@
 ### UNIX
 
 <a href="https://github.com/aceyzz/ft_linux"><img src="_git_utils/ft_linux.png" alt="ft_linux project logo" style="width: 80%;">
-<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+<img src="_git_utils/103.png" alt="grade" style="width: 19%;"></a>
 
 ---
 
