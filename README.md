@@ -61,6 +61,9 @@
 <a href="https://github.com/aceyzz/little-penguin-1"><img src="_git_utils/little-penguin.png" alt="little-penguin project logo" style="width: 80%;">
 <img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
 
+<a href="https://github.com/aceyzz/matt-daemon"><img src="_git_utils/matt-daemon.png" alt="matt-daemon project logo" style="width: 80%;">
+<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+
 ---
 
 ### WORK EXPERIENCE
