@@ -14,7 +14,7 @@
 <img src="_git_utils/100.png" alt="grade" style="width: 19%;"></a>
 
 <a href="https://github.com/aceyzz/BADASS"><img src="_git_utils/BADASS.png" alt="BADASS project logo" style="width: 80%;">
-<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+<img src="_git_utils/100.png" alt="grade" style="width: 19%;"></a>
 
 ---
 
@@ -56,6 +56,9 @@
 
 <a href="https://github.com/aceyzz/ft_ssl_md5"><img src="_git_utils/ft_ssl_md5.png" alt="ft_ssl_md5 project logo" style="width: 80%;">
 <img src="_git_utils/125.png" alt="grade" style="width: 19%;"></a>
+
+<a href="https://github.com/aceyzz/Override"><img src="_git_utils/override.png" alt="override project logo" style="width: 80%;">
+<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
 
 ---
 
