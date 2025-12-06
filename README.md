@@ -103,7 +103,14 @@ Documentation du RNCP6 pour les etudiants de 42 [ici](https://meta.intra.42.fr/a
 
 **Objectif** : Obtenir le **RNCP6 option Développement Web et Mobile**
 
-<img src="_git_utils/RNCP6.png" alt="RNCP6 Banner" style="width: 100%">
+<img src="_git_utils/RNCP6-1.png" alt="RNCP6 Banner" style="width: 100%">
+
+<br>
+
+**Objectif** : Obtenir le **RNCP6 option Développement d'Applications**
+
+<img src="_git_utils/RNCP6-2.png" alt="RNCP6 Banner" style="width: 100%">
+
 
 <br>
 
