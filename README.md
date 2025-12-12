@@ -61,7 +61,7 @@
 <img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
 
 <a href="https://github.com/aceyzz/Override"><img src="_git_utils/override.png" alt="override project logo" style="width: 80%;">
-<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+<img src="_git_utils/125.png" alt="grade" style="width: 19%;"></a>
 
 ---
 
