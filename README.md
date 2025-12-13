@@ -84,7 +84,7 @@
 ### FUNCTIONAL PROGRAMMING
 
 <a href="https://github.com/aceyzz/ft_ality"><img src="_git_utils/ft_ality.png" alt="ft_ality project logo" style="width: 80%;">
-<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+<img src="_git_utils/105.png" alt="grade" style="width: 19%;"></a>
 
 ---
 
