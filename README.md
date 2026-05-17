@@ -100,7 +100,7 @@
 <img src="_git_utils/125.png" alt="grade" style="width: 19%;"></a>
 
 <a href="https://cmuller.ch"><img src="_git_utils/we2.png" alt="work-experience-2 project logo" style="width: 80%;">
-<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+<img src="_git_utils/125.png" alt="grade" style="width: 19%;"></a>
 
 <br>
 <br>
