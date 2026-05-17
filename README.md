@@ -64,7 +64,7 @@
 <img src="_git_utils/125.png" alt="grade" style="width: 19%;"></a>
 
 <a href="https://github.com/aceyzz/tinky-winkey"><img src="_git_utils/tinky-winkey.png" alt="tinkey-winkey project logo" style="width: 80%;">
-<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+<img src="_git_utils/105.png" alt="grade" style="width: 19%;"></a>
 
 ---
 
