@@ -110,16 +110,9 @@
 Voir la fiche officielle du RNCP6 [ici](https://www.francecompetences.fr/recherche/rncp/39783/) (site officiel du gouvernement français)  
 Documentation du RNCP6 pour les etudiants de 42 [ici](https://meta.intra.42.fr/articles/rncp-6-certificate)  
 
-**Objectif** : Obtenir le **RNCP6 option Développement Web et Mobile**
+**Objectif** : Obtenir le **RNCP6 option Développement Web et Mobile** - prévu pour 10.2026
 
-<img src="_git_utils/RNCP6-1.png" alt="RNCP6 Banner" style="width: 100%">
-
-<br>
-
-**Objectif** : Obtenir le **RNCP6 option Développement d'Applications**
-
-<img src="_git_utils/RNCP6-2.png" alt="RNCP6 Banner" style="width: 100%">
-
+<img src="_git_utils/RNCP6.png" alt="RNCP6 Banner" style="width: 100%">
 
 <br>
 <br>
@@ -130,7 +123,7 @@ Documentation du RNCP6 pour les etudiants de 42 [ici](https://meta.intra.42.fr/a
 Voir la fiche officielle du RNCP7 [ici](https://www.francecompetences.fr/recherche/rncp/39774/) (site officiel du gouvernement français)  
 Documentation du RNCP7 pour les etudiants de 42 [ici](https://meta.intra.42.fr/articles/rncp-7-certificate)  
 
-**Objectif** : Obtenir le **RNCP7 option Système d'Information et Réseaux**
+**RNCP7 option Système d'Information et Réseaux** obtenu - 04.2026
 
 <img src="_git_utils/RNCP7.png" alt="RNCP7 Banner" style="width: 100%">
 
