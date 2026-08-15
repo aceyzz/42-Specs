@@ -40,6 +40,9 @@
 <a href="https://github.com/aceyzz/tokenizer"><img src="_git_utils/tokenizer.png" alt="tokenizer project logo" style="width: 80%;">
 <img src="_git_utils/100.png" alt="grade" style="width: 19%;"></a>
 
+<a href="https://github.com/aceyzz/tokenizeart"><img src="_git_utils/tokenizeart.png" alt="tokenizeart project logo" style="width: 80%;">
+<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+
 ---
 
 ### AI
