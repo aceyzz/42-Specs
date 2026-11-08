@@ -27,7 +27,10 @@
 <img src="_git_utils/115.png" alt="grade" style="width: 19%;"></a>
 
 <a href="https://github.com/aceyzz/ft_hangouts"><img src="_git_utils/ft_hangouts.png" alt="ft_hangouts project logo" style="width: 80%;">
-<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+<img src="_git_utils/125.png" alt="grade" style="width: 19%;"></a>
+
+<a href="https://github.com/Echo24h/Music-Room"><img src="_git_utils/music-room.png" alt="music-room project logo" style="width: 80%;">
+<img src="_git_utils/120.png" alt="grade" style="width: 19%;"></a>
 
 ---
 
@@ -44,7 +47,7 @@
 <img src="_git_utils/100.png" alt="grade" style="width: 19%;"></a>
 
 <a href="https://github.com/aceyzz/tokenizeart"><img src="_git_utils/tokenizeart.png" alt="tokenizeart project logo" style="width: 80%;">
-<img src="_git_utils/dots.png" alt="grade" style="width: 19%;"></a>
+<img src="_git_utils/105.png" alt="grade" style="width: 19%;"></a>
 
 ---
 
